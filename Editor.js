@@ -1,4 +1,5 @@
 // ==UserScript==
+// ==RusoScript==
 // @name         Editor
 // @namespace    http://tampermonkey.net/
 // @version      2024-02-19
